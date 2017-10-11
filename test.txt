@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-=======
-This is Sparta
->>>>>>> 55aca578cc0034a485e567fef6aaff09e9f99f1b
+This is Computer Science
