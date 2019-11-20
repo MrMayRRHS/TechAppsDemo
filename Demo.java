@@ -31,10 +31,17 @@ public void EmmaAusman(){
         d.run();
     }
 
-    void MilesCrain() {
-        System.out.println("SHANTANU IS BAD AT CHESS");
+    void MarkoVujosevic() {
+      System.out.println("Let's rebel against Mr. May");
     }
-    
+
+
+
+
+    void MilesCrain () {
+      System.out.println("SHANTANU IS BAD AT CHESS");
+    }
+
     void Errett()
     {
  System.out.println("lemon");
@@ -51,6 +58,8 @@ public void EmmaAusman(){
   {
  System.out.println("You Can't Stop The Show!");
   }
-  
+
+
 }
+
 
