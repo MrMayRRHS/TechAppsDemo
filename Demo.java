@@ -3,6 +3,9 @@ public class Demo {
         MrMay();
         JacksonWelsh();
         MilesCrain();
+        KevinWhite();
+		NickGialusis();
+
     }
 
 
@@ -35,4 +38,19 @@ public class Demo {
     {
       System.out.println("PMA");
     }
+
+  public static void main (String[]args)
+
+  {
+    Demo d = new Demo();
+    d.run();
+  }
+
+  public void NickGialusis()
+  {
+ System.out.println("You Can't Stop The Show!");
+  }
+  
 }
+
+
