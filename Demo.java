@@ -3,13 +3,21 @@ public class Demo
   public void run()
   {
     MrMay();
+
     MilesCrain();
   }
 
-  public void MrMay()
-  {
-    System.out.println("Computer Science!");
-  }
+public class Demo {
+    public void run() {
+        MrMay();
+    }
+
+
+    public void MrMay() {
+        System.out.println("bing bing");
+    }
+
+
 
 
   public static void main(String[] args)
@@ -20,6 +28,6 @@ public class Demo
   public void MilesCrain(){
 System.out.println("SHANTANU IS BAD AT CHESS");
 
-  
+
   }
 }
