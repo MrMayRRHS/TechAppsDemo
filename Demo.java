@@ -9,11 +9,12 @@ public class Demo {
   amroKerkiz();
 
     }
-
-
     void MrMay() {
         System.out.println("bing bing");
     }
+public void EmmaAusman(){
+  System.out.println(":)");
+}
 
 
     void JacksonWelsh() {
