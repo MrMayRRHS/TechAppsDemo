@@ -3,6 +3,7 @@ public class Demo
   public void run()
   {
     MrMay();
+    Errett();
   }
 
   public void MrMay()
@@ -10,9 +11,13 @@ public class Demo
     System.out.println("Computer Science!");
   }
 
-  
-  public static void main(String[] args)
+  public void Errett()
   {
+	System.out.println("lemon");
+  }
+
+  
+  public static void main(String[] args) {
     Demo d = new Demo();
     d.run();
   }
