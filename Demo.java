@@ -1,25 +1,32 @@
-public class Demo
-{
-  public void run()
-  {
-    MrMay();
-    Gianni();
-  }
 
-  public void MrMay()
-  {
-    System.out.println("Computer Science!");
-  }
+public class Demo {
+    public void run() {
+        MrMay();
+        JacksonWelsh();
+        MilesCrain();
+    }
 
-  
-  public static void main(String[] args)
-  {
-    Demo d = new Demo();
-    d.run();
-  }
 
-  public void Gianni()
-  {
-    System.out.println("Hello World!");
-  }
+    void MrMay() {
+        System.out.println("bing bing");
+    }
+
+
+    void JacksonWelsh() {
+        for (int i = Integer.MIN_VALUE; i < Integer.MAX_VALUE; i++)
+            System.out.println("i'm stuff" + i);
+    }
+
+
+    public static void main(String[] args) {
+        Demo d = new Demo();
+        d.run();
+    }
+
+    void MilesCrain() {
+        System.out.println("SHANTANU IS BAD AT CHESS");
+
+
+    }
 }
+
