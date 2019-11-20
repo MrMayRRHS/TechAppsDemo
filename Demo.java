@@ -4,6 +4,9 @@ public class Demo {
         MrMay();
         JacksonWelsh();
         MilesCrain();
+        KevinWhite();
+		NickGialusis();
+
     }
     void MrMay() {
         System.out.println("bing bing");
@@ -26,7 +29,30 @@ public void EmmaAusman(){
 
     void MilesCrain() {
         System.out.println("SHANTANU IS BAD AT CHESS");
-
-
     }
+    
+    void Errett()
+    {
+	System.out.println("lemon");
+    }
+
+    public void KevinWhite();
+    {
+      System.out.println("PMA");
+    }
+
+  public static void main (String[]args)
+
+  {
+    Demo d = new Demo();
+    d.run();
+  }
+
+  public void NickGialusis()
+  {
+ System.out.println("You Can't Stop The Show!");
+  }
+  
 }
+
+
