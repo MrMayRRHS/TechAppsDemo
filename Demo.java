@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 public class Demo
 {
   public void run()
@@ -26,15 +27,20 @@ public class Demo
 }
 =======
 
+=======
+>>>>>>> 9ef9e2fecb8ac4bc03e9711cbd8f7d56e575dfb1
 public class Demo {
     public void run() {
         MrMay();
         JacksonWelsh();
         MilesCrain();
     }
+
+
     void MrMay() {
         System.out.println("bing bing");
     }
+
 
     void JacksonWelsh() {
         for (int i = Integer.MIN_VALUE; i < Integer.MAX_VALUE; i++)
@@ -53,5 +59,8 @@ public class Demo {
 
     }
 }
+<<<<<<< HEAD
 
 >>>>>>> 0b5254c021727201fc48bbe2359602f99bb48087
+=======
+>>>>>>> 9ef9e2fecb8ac4bc03e9711cbd8f7d56e575dfb1
