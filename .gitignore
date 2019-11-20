@@ -1,5 +1,5 @@
 *.class
-.java~
+*.java~
 .idea/
 .out/
 out/
