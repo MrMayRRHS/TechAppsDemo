@@ -5,12 +5,9 @@ public class Demo {
         JacksonWelsh();
         MilesCrain();
     }
-
-
     void MrMay() {
         System.out.println("bing bing");
     }
-
 
     void JacksonWelsh() {
         for (int i = Integer.MIN_VALUE; i < Integer.MAX_VALUE; i++)
