@@ -1,39 +1,13 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-public class Demo
-{
-  public void run()
-  {
-    MrMay();
-    amroKerkiz();
-  }
 
-  public void MrMay()
-  {
-    System.out.println("Computer Science!");
-  }
-  
-  public void amroKerkiz()
-  {
-    System.out.println("I like food");
-  }
-
-  
-  public static void main(String[] args)
-  {
-    Demo d = new Demo();
-    d.run();
-  }
-}
-=======
-
-=======
->>>>>>> 9ef9e2fecb8ac4bc03e9711cbd8f7d56e575dfb1
 public class Demo {
     public void run() {
         MrMay();
         JacksonWelsh();
         MilesCrain();
+        KevinWhite();
+  NickGialusis();
+  amroKerkiz();
+
     }
 
 
@@ -47,7 +21,10 @@ public class Demo {
             System.out.println("i'm stuff" + i);
     }
 
-
+ public static void amroKerkiz()
+  {
+    System.out.println("I like food");
+  }
     public static void main(String[] args) {
         Demo d = new Demo();
         d.run();
@@ -55,12 +32,24 @@ public class Demo {
 
     void MilesCrain() {
         System.out.println("SHANTANU IS BAD AT CHESS");
-
-
     }
-}
-<<<<<<< HEAD
+    
+    void Errett()
+    {
+ System.out.println("lemon");
+    }
 
->>>>>>> 0b5254c021727201fc48bbe2359602f99bb48087
-=======
->>>>>>> 9ef9e2fecb8ac4bc03e9711cbd8f7d56e575dfb1
+    public void KevinWhite()
+    {
+      System.out.println("PMA");
+    }
+
+
+
+  public void NickGialusis()
+  {
+ System.out.println("You Can't Stop The Show!");
+  }
+  
+}
+
