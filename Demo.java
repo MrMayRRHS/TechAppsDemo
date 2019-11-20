@@ -3,11 +3,17 @@ public class Demo
   public void run()
   {
     MrMay();
+    JacksonWelsh();
   }
 
   public void MrMay()
   {
     System.out.println("Computer Science!");
+  }
+
+  void JacksonWelsh() {
+    for(int i = Integer.MIN_VALUE; i < Integer.MAX_VALUE; i++)
+      System.out.println("i'm stuff" + i);
   }
 
   
