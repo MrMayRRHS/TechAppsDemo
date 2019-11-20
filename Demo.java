@@ -7,19 +7,14 @@ public class Demo {
         KevinWhite();
     }
 
-    public void MrMay() {
+    void MrMay() {
         System.out.println("bing bing");
     }
 
-  public static void main(String[] args)
-  {
-    Demo d = new Demo();
-    d.run();
-  }
+    void JacksonWelsh() {
+        for (int i = Integer.MIN_VALUE; i < Integer.MAX_VALUE; i++)
+            System.out.println("i'm stuff" + i);
 
-
-    void MrMay () {
-      System.out.println("bing bing");
     }
 
 
@@ -44,3 +39,4 @@ public class Demo {
     d.run();
   }
   }
+
