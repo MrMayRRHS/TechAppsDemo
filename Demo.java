@@ -1,19 +1,15 @@
-public class Demo
-{
-  public void run()
-  {
-    MrMay();
-  }
+public class Demo {
+    public void run() {
+        MrMay();
+    }
 
-  public void MrMay()
-  {
-    System.out.println("Computer Science!");
-  }
+    public void MrMay() {
+        System.out.println("bing bing");
+    }
 
   
-  public static void main(String[] args)
-  {
-    Demo d = new Demo();
-    d.run();
-  }
+    public static void main(String[] args) {
+        Demo d = new Demo();
+        d.run();
+    }
 }
