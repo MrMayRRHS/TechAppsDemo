@@ -3,6 +3,7 @@ public class Demo
   public void run()
   {
     MrMay();
+    Kevin();
   }
 
   public void MrMay()
@@ -10,6 +11,10 @@ public class Demo
     System.out.println("Computer Science!");
   }
 
+public void Kevin();
+  {
+    System.out.println("PMA");
+  }
   
   public static void main(String[] args)
   {
