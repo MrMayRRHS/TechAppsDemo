@@ -2,7 +2,7 @@ public class Demo
 {
   public void run()
   {
-    MrMay();
+    MrMay(); 
   }
 
   public void MrMay()
@@ -16,4 +16,12 @@ public class Demo
     Demo d = new Demo();
     d.run();
   }
+ public void count
+ {
+  if(x < 10)
+   {
+    x++;
+System.out.println(x);
+   }
+ }
 }
