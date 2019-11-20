@@ -1,21 +1,18 @@
-<<<<<<< HEAD
 public class Demo
 {
   public void run()
   {
     MrMay();
-    JacksonWelsh();
+    //JacksonWelsh();
+    EmmaAusman();
   }
-=======
-public class Demo {
-    public void run() {
-        MrMay();
-    }
->>>>>>> d38e293d09593b4281dbda7fccccdcbaaa1330e4
 
     public void MrMay() {
         System.out.println("bing bing");
     }
+public void EmmaAusman(){
+  System.out.println(":)");
+}
 
   void JacksonWelsh() {
     for(int i = Integer.MIN_VALUE; i < Integer.MAX_VALUE; i++)
