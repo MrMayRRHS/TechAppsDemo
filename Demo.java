@@ -3,6 +3,7 @@ public class Demo
   public void run()
   {
     MrMay();
+    Gianni();
   }
 
   public void MrMay()
@@ -15,5 +16,10 @@ public class Demo
   {
     Demo d = new Demo();
     d.run();
+  }
+
+  public void Gianni()
+  {
+    System.out.println("Hello World!");
   }
 }
