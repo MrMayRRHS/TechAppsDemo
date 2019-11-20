@@ -3,7 +3,9 @@ public class Demo {
         MrMay();
         JacksonWelsh();
         MilesCrain();
+        KevinWhite();
     }
+
     void MrMay() {
         System.out.println("bing bing");
     }
@@ -11,20 +13,32 @@ public class Demo {
     void JacksonWelsh() {
         for (int i = Integer.MIN_VALUE; i < Integer.MAX_VALUE; i++)
             System.out.println("i'm stuff" + i);
+
     }
 
 
-    public static void main(String[] args) {
-        Demo d = new Demo();
-        d.run();
+    void JacksonWelsh () {
+      for (int i = Integer.MIN_VALUE; i < Integer.MAX_VALUE; i++)
+        System.out.println("i'm stuff" + i);
     }
 
     void MilesCrain() {
         System.out.println("SHANTANU IS BAD AT CHESS");
     }
     
-    public void Errett()
+    void Errett()
     {
 	System.out.println("lemon");
+    }
+
+    public void KevinWhite();
+    {
+      System.out.println("PMA");
+    }
+
+    public static void main (String[]args)
+    {
+	Demo d = new Demo();
+	d.run();
     }
 }
