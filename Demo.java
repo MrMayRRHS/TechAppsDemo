@@ -1,13 +1,17 @@
-<<<<<<< HEAD
 public class Demo
 {
   public void run()
   {
     MrMay();
+
     Kevin();
 
     JacksonWelsh();
+
+
+    MilesCrain();
   }
+  g=
 public class Demo {
     public void run() {
         MrMay();
@@ -17,10 +21,13 @@ public class Demo {
         System.out.println("bing bing");
     }
 
-  void JacksonWelsh() {
-    for(int i = Integer.MIN_VALUE; i < Integer.MAX_VALUE; i++)
-      System.out.println("i'm stuff" + i);
+  public static void main(String[] args)
+  {
+    Demo d = new Demo();
+    d.run();
   }
+  public void MilesCrain(){
+System.out.println("SHANTANU IS BAD AT CHESS");
 
 public void Kevin();
   {
@@ -31,4 +38,6 @@ public void Kevin();
         Demo d = new Demo();
         d.run();
     }
+
+  }
 }
