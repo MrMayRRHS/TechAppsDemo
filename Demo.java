@@ -23,6 +23,10 @@ public class Demo {
         System.out.println("i'm stuff" + i);
     }
 
+    void MarkoVujosevic() {
+      System.out.println("Let's rebel against Mr. May");
+    }
+
 
 
 
@@ -39,4 +43,3 @@ public class Demo {
     d.run();
   }
   }
-
